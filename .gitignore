@@ -1,0 +1,10 @@
+# secrets
+.env
+
+
+# cache files
+__pycache__
+cogs/__pycache__
+core/__pycache__
+modules/__pycache__
+views/__pycache__
