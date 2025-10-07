@@ -1,7 +1,6 @@
 # secrets
 .env
 
-
 # cache files
 __pycache__
 cogs/__pycache__
